@@ -1,0 +1,13 @@
+* {
+    margin: 10px;
+}
+body {
+    background: url("back.jpg") fixed;
+    background-size: cover;
+}
+.container {
+    margin: 10% 20%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    text-align: center;
+}
